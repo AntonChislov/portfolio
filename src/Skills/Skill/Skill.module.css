@@ -7,16 +7,15 @@
     text-align: center;
 }
 
-.icon {
+.img {
     width: 100px;
     height: 100px;
     background-color: aqua;
 }
 
 .title {
-
 }
 
 .description {
-
+    padding: 0 5px 5px 5px;
 }

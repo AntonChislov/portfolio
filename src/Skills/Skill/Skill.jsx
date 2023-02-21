@@ -3,7 +3,7 @@ import styles from './Skill.module.css'
 
 export const Skill = ({title}) => {
     return <div className={styles.skill}>
-        <div className={styles.icon}></div>
+        <div className={styles.img}></div>
         <h3 className={styles.title}>{title}</h3>
         <p className={styles.description}>
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aspernatur consectetur deserunt, dicta

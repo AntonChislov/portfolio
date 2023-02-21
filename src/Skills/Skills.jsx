@@ -10,9 +10,6 @@ export const Skills = () => {
                 <Skill title={'JS'}/>
                 <Skill title={'HTML'}/>
                 <Skill title={'CSS'}/>
-                <Skill title={'React'}/>
-                <Skill title={'TypeScript'}/>
-                <Skill title={'MUI'}/>
             </div>
         </div>
     </div>
