@@ -1,0 +1,46 @@
+.workBlock {
+    border: 1px solid black;
+    width: 360px;
+    height: 400px;
+    background-color: aqua;
+}
+
+.preview {
+    border: 1px solid black;
+    width: 100%;
+    height: 280px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.viewButton {
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: aqua;
+}
+
+.descriptionBox {
+    border: 1px solid black;
+    background-color: green;
+}
+
+.projectName {
+    border: 1px solid black;
+    background-color: aqua;
+    margin: 10px 0 3px 10px;
+    display: inline-flex;
+}
+
+.description {
+    border: 1px solid black;
+    background-color: blue;
+    height: 68px;
+    margin: 3px 10px 10px 10px;
+}

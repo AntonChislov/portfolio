@@ -1,5 +1,4 @@
 .skillsBlock {
-    height: 100vh;
     background-color: gray;
 }
 
@@ -10,6 +9,8 @@
     margin: 0 auto;
     display: flex;
     flex-direction: column;
+    align-items: center;
+
 }
 
 .title {
@@ -19,10 +20,12 @@
 
 .skillsBox {
     border: 1px solid;
+    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    margin: 100px 0;
 }
 
 .skillItem {

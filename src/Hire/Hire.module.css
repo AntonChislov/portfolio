@@ -1,0 +1,29 @@
+.hireBlock {
+    height: 200px;
+    background-color: red;
+}
+
+.container {
+    border: 1px solid;
+    height: 100%;
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    background-color: darkolivegreen;
+    text-align: center;
+}
+
+.hireButton {
+    width: 120px;
+    height: 40px;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

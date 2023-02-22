@@ -1,0 +1,53 @@
+.contactBlock {
+    background-color: darkolivegreen;
+}
+
+.container {
+    border: 1px solid;
+    height: 100%;
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    margin: 50px 0 100px 0;
+    border: 1px solid black;
+}
+
+.fieldBox {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+
+}
+
+.input1 {
+    box-sizing: border-box;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+.input2 {
+    box-sizing: border-box;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+.textarea {
+    box-sizing: border-box;
+    height: 100px;
+}
+
+.submitButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    width: 100px;
+    height: 30px;
+    margin: 100px 0;
+}

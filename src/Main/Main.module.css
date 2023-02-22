@@ -11,10 +11,11 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .text {
-    width: 400px;
+    width: 360px;
     background-color: gold;
 }
 

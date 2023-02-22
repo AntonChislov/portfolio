@@ -5,9 +5,9 @@ export const Main = () => {
     return <div className={styles.mainBlock}>
         <div className={styles.container}>
             <div className={styles.text}>
-                <span>Какой-то спан</span>
-                <h1>Какой-то заголовок</h1>
-                <p>Какой-то большой текст</p>
+                <span>Привет!</span>
+                <h2>Меня зовут Антон Числов.</h2>
+                <p>Я front-end разработчик</p>
             </div>
             <div className={styles.photo}></div>
         </div>
