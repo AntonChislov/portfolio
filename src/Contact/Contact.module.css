@@ -21,7 +21,7 @@
     border: 1px solid;
     display: flex;
     flex-direction: column;
-    width: 250px;
+    width: 450px;
 
 }
 
@@ -50,4 +50,10 @@
     width: 100px;
     height: 30px;
     margin: 100px 0;
+}
+
+@media screen and (max-width: 645px) {
+    .fieldBox {
+        width: 250px;
+    }
 }

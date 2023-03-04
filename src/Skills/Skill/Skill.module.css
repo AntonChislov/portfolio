@@ -9,10 +9,9 @@
     box-sizing: border-box;
 }
 
-.img {
+.skill img {
     width: 100px;
-    height: 100px;
-    background-color: aqua;
+    /*background-color: aqua;*/
 }
 
 .title {
